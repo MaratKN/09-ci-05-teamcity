@@ -41,6 +41,7 @@
 
 
 Добрый день. Не видно агента, что я делаю не так? Выполнял строго по инструкции из обучающего видео.
+Попробовал вручную установить, ловлю ошибку 451. Даже с VPN. НЕТ ВОЗМОЖНОСТИ ВЫПОЛНИТЬ ДЗ на данный момент! 
 
 ![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1.png)
 ![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/2.png)
