@@ -39,13 +39,24 @@
 
 ---
 
+[TeamCity](https://github.com/MaratKN/example-teamcity)
 
-Добрый день. Не видно агента, что я делаю не так? Выполнял строго по инструкции из обучающего видео.
-Update: возможно, дело в том, что не ставится агент на тачку. Попробовал вручную установить/скачать, ловлю ошибку 451 и через терминал и через сайт. Даже с VPN. 
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/22.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/33.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/44.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/55.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/66.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/77.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/88.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/99.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1010.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1111.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1212.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1313.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1414.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1515.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1616.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1717.png)
+![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1818.png)
 
-### НЕТ ВОЗМОЖНОСТИ ВЫПОЛНИТЬ ДЗ на данный момент!
 
-![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/1.png)
-![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/2.png)
-![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/3.png)
-![alt text](https://github.com/MaratKN/09-ci-05-teamcity/blob/main/4.png)
